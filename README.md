@@ -1,5 +1,8 @@
 # feeder
 
+feeder requires a minimum PHP version of 8.0.
+
+
 check example/feed.php
 ```php
 //example facebook xml
